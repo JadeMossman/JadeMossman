@@ -1,5 +1,7 @@
 #Activity 1 - Control Statements
 
+#Write a Python program that accepts three numbers and prints "All numbers are equal" if all three numbers are equal, "All numbers are different" if all three numbers are different and "Neither all are equal or different" otherwise.
+
 (a) = float(input("Enter a float value: "))
 #print (int(a))
 (b) = float(input("Enter a float value: "))
